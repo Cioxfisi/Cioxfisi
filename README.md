@@ -1,4 +1,6 @@
-<h1>Hi, I'm David! <a href="https://www.linkedin.com/in/david-blahnik-363a6493/">Computer Science Expert in System Integration</a>
+<h1>Hi, I'm David! 
+</br>  
+<a href="https://www.linkedin.com/in/david-blahnik-363a6493/">Computer Science Expert in System Integration</a>
 
   <h2>👨‍💻 Cyber Security Projects:</h2>
 
