@@ -1,7 +1,7 @@
 <h1>Hi, I'm David! 
 </br>  
 <a href="https://www.linkedin.com/in/david-blahnik-363a6493/">Computer Science Expert in System Integration</a>
-  <h2>👨‍💻 System Integration Projects:</h2>
+  <h2>👨‍💻 :globe_with_meridians: System Integration Projects:</h2>
 - <b>Professional Statement</b>
   - [Professional Statement](https://github.com/Cioxfisi/01_Professional_Statement)
   
