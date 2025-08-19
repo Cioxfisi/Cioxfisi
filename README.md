@@ -5,7 +5,7 @@
 - <b>Professional Statement</b>
   - [Professional Statement](https://github.com/Cioxfisi/01_Professional_Statement)
   
-  <h2>👨‍💻 :shipit: Cyber Security Projects:</h2>
+  <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Professional Statement</b>
   - [Professional Statement](https://github.com/Cioxfisi/01_Professional_Statement)
