@@ -4,8 +4,8 @@
   
   <h2>🌐 System Integration Projects:</h2>
 
-- <b>IHK Projekt: Implementierung einer VPN-Lösung zur Performance-Optimierung bei einem KUNDENUNTERNEHMEN</b>
-  - [DE-VPN_Implementation_for-Performance_Optimization](https://github.com/Cioxfisi/VPN_Implementation_for-Performance_Optimization)
+- <b>IHK Projekt: VPN_Implementation_for_Performance_Optimization</b>
+  - [DE-Implementierung einer VPN-Lösung zur Performance-Optimierung bei einem KUNDENUNTERNEHMEN](https://github.com/Cioxfisi/VPN_Implementation_for_Performance_Optimization)
   
   <h2>👨‍💻 Cyber Security Projects:</h2>
 
