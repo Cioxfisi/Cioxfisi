@@ -5,8 +5,9 @@
   <h2>🌐 System Integration Projects:</h2>
 
 - <b>IHK Projekt: VPN_Implementation_for_Performance_Optimization</b>
-  - [DE-Implementierung einer VPN-Lösung zur Performance-Optimierung bei einem KUNDENUNTERNEHMEN](https://github.com/Cioxfisi/VPN_Implementation_for_Performance_Optimization)
-  
+  - [DE-Implementierung einer VPN-Lösung zur Performance-Optimierung](https://github.com/Cioxfisi/VPN_Implementation_for_Performance_Optimization)
+
+<!--
   <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Professional Statement</b>
@@ -25,7 +26,7 @@
   - [Incident Handling Journal](https://github.com/Cioxfisi/07_Incident_Handling_Journal)
 - <b>Textfile Parsing Log Analysis</b>
   - [Practicing Textfile Parsing Log Analysis](https://github.com/Cioxfisi/08_Textfile_Parsing_LogAnalysis)
-
+-->
 <h2>📄 Certifications</h2>
 
 - Computer Science Expert, Subject Area: System Integration
