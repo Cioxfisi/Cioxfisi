@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/david-blahnik-363a6493/">Computer Science Expert in System Integration</a>
   
   <h2>🌐 System Integration Projects:</h2>
+- <b>Professional Statement</b>
+  - [Professional Statement](https://github.com/Cioxfisi/01_Professional_Statement)
+
 - <b>IHK Projekt: Implementierung einer VPN-Lösung zur Performance-Optimierung bei einem KUNDENUNTERNEHMEN</b>
   - [DE-VPN_Implementation_for-Performance_Optimization](https://github.com/Cioxfisi/VPN_Implementation_for-Performance_Optimization)
   
