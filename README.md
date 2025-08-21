@@ -7,9 +7,11 @@
 - <b>IHK Projekt: VPN_Implementation_for_Performance_Optimization</b>
   - [DE-Implementierung einer VPN-Lösung zur Performance-Optimierung](https://github.com/Cioxfisi/VPN_Implementation_for_Performance_Optimization)
 
-<!--
-  <h2>👨‍💻 Cyber Security Projects:</h2>
 
+  <h2>👨‍💻 Cyber Security Projects:</h2>
+  - <b>Vulnerability Assessment For Small Business</b>
+    - [Vulnerability Assessment For Small Business](https://github.com/Cioxfisi/Vulnerability_Assessment_SmallBusiness)
+<!--
 - <b>Professional Statement</b>
   - [Professional Statement](https://github.com/Cioxfisi/01_Professional_Statement)
 - <b>Security Audit</b>
@@ -20,8 +22,7 @@
   - [Practicing Linux File Permissions](https://github.com/Cioxfisi/04_Linux_File_Permissions)
 - <b>SQL Filters</b>
   - [Filtering SQL](https://github.com/Cioxfisi/05_SQL_Filters)
-- <b>Vulnerability Assessment For Small Business</b>
-  - [Vulnerability Assessment For Small Business](https://github.com/Cioxfisi/06_Vulnerability_Assessment_SmallBusiness)
+
 - <b>Incident Handling Journal</b>
   - [Incident Handling Journal](https://github.com/Cioxfisi/07_Incident_Handling_Journal)
 - <b>Textfile Parsing Log Analysis</b>
