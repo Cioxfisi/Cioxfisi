@@ -9,8 +9,8 @@
 
 
   <h2>👨‍💻 Cyber Security Projects:</h2>
-  - <b>Vulnerability Assessment For Small Business</b>
-    - [Vulnerability Assessment For Small Business](https://github.com/Cioxfisi/Vulnerability_Assessment_SmallBusiness)
+- <b>Google Cybersecurity Professional Certificate</b>
+  - [Vulnerability Assessment For Small Business](https://github.com/Cioxfisi/Vulnerability_Assessment_SmallBusiness)
 <!--
 - <b>Professional Statement</b>
   - [Professional Statement](https://github.com/Cioxfisi/01_Professional_Statement)
