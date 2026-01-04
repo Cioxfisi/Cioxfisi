@@ -11,7 +11,7 @@
   
 - <b>Google Cybersecurity Professional Certificate</b>
   - [Vulnerability Assessment For Small Business](https://github.com/Cioxfisi/Vulnerability_Assessment_SmallBusiness)
-  - [Use Linux commands to manage file permissions](https://github.com/Cioxfisi/Vulnerability_Assessment_SmallBusiness)
+  - [Use Linux commands to manage file permissions](https://github.com/Cioxfisi/04_Linux_File_Permissions)
 <!--
 - <b>Professional Statement</b>
   - [Professional Statement](https://github.com/Cioxfisi/01_Professional_Statement)
